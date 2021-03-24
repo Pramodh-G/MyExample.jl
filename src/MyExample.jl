@@ -1,5 +1,6 @@
 module MyExample
 
-# Write your package code here.
+export f
 
+f(x,y) = 2x + 3y
 end
